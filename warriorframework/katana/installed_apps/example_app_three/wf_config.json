@@ -5,5 +5,5 @@
   "developer": "Company-3",
   "description": "This is the third user created app",
   "url" : "/katana/example_app_three/",
-  "app" : [{"name" : "Example App Three", "url" : "/katana/example_app_three/", "include": "installed_apps.example_app_three.urls"}]
+  "app" : [{"name" : "Example App Three", "url" : "/katana/example_app_three/", "include": "wapps.example_app_three.urls"}]
 }
