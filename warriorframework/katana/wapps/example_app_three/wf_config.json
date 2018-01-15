@@ -4,7 +4,7 @@
   "developer": "Company-3",
   "description": "This is the third user created app",
   "app" : {"name" : "Example App Three", "url" : "/katana/example_app_three/", "include": "wapps.example_app_three.urls"},
-  "warrior-compatibility": ":warrior-3.7.0",
+  "warrior-compatibility": ":warrior-3.7.1",
   "warrior-incompatibility": "warrior-3.3.3",
   "version": "1.0.0",
   "permissions": "",
